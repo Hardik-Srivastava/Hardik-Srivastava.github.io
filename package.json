@@ -38,7 +38,7 @@
     ]
   },
   "homepage": "https://github.com/Hardik-Srivastava/Hardik-Srivastava.github.io",
-  "devDependencies": {
+  "devDependencies": { 
     "gh-pages": "^5.0.0"
   }
 }
